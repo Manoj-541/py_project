@@ -1,5 +1,5 @@
-##🩺 HealthSense – Symptom-Based Disease Prediction System
-📌 Overview ##
+#🩺 HealthSense – Symptom-Based Disease Prediction System
+📌 Overview #
 
 HealthSense is a full-stack web application that predicts potential diseases based on user-selected symptoms. The system dynamically extracts symptoms from a structured dataset and applies a similarity-based classification algorithm to determine the most likely disease.
 
