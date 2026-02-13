@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="card">
+    <h2>Select Symptoms</h2>
+
+    <form action="/predict" method="post">
+
+        <div class="symptoms-grid">
+            {% for symptom in symptoms %}
+                <label>
+                    <input type="checkbox" name="symptoms" value="{{ symptom }}">
+                    {{ symptom.replace("_", " ").title() }}
+                </label>
+            {% endfor %}
+        </div>
+
+        <button type="submit">Predict Disease</button>
+    </form>
+
+    <br>
+    <a href="/logout">Logout</a>
+</div>
+
+{% endblock %}

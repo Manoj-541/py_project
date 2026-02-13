@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HealthSense</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+    <div class="overlay">
+        <div class="container">
+
+            <header>
+                <h1>HealthSense</h1>
+            </header>
+
+            {% block content %}
+            {% endblock %}
+
+        </div>
+    </div>
+
+</body>
+</html>

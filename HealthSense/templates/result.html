@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="card">
+    <h2>Prediction Result</h2>
+
+    <p class="result">
+        Predicted Disease: {{ disease }}
+    </p>
+
+    <br>
+    <a href="/dashboard">Try Again</a>
+</div>
+
+{% endblock %}

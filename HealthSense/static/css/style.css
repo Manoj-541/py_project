@@ -1,0 +1,117 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: url("../images/bg.jpg") no-repeat center center/cover;
+    min-height: 100vh;
+}
+
+/* Dark overlay for readability */
+.overlay {
+    background: rgba(0, 0, 0, 0.6);
+    min-height: 100vh;
+    padding: 40px 20px;
+}
+
+/* Main container */
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+/* Header */
+header h1 {
+    text-align: center;
+    font-size: 42px;
+    color: #ffffff;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+/* Card style */
+.card {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Form headings */
+.card h2 {
+    margin-bottom: 20px;
+    color: #2c3e50;
+}
+
+/* Inputs */
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+/* Buttons */
+button {
+    background-color: #3498db;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+/* Checkbox grid */
+.symptoms-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.symptoms-grid label {
+    background: #ecf0f1;
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* Links */
+a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Result text */
+.result {
+    font-size: 20px;
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 28px;
+    }
+}

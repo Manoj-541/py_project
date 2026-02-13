@@ -1,0 +1,91 @@
+Disease,Symptoms
+Flu,fever cough headache body_ache fatigue
+Cold,cough sneezing runny_nose sore_throat
+Malaria,fever chills sweating headache nausea
+Diabetes,weight_loss fatigue thirst frequent_urination blurred_vision
+Hypertension,headache dizziness chest_pain shortness_of_breath
+Asthma,shortness_of_breath wheezing cough chest_tightness
+Tuberculosis,cough fever night_sweats weight_loss
+Pneumonia,fever cough chest_pain breathing_difficulty
+Dengue,fever headache joint_pain rash nausea
+Typhoid,fever abdominal_pain weakness constipation
+Chickenpox,fever rash itching fatigue
+Measles,fever rash cough red_eyes
+Mumps,swollen_glands fever headache muscle_pain
+Hepatitis_A,jaundice fatigue nausea abdominal_pain
+Hepatitis_B,jaundice fatigue dark_urine abdominal_pain
+Hepatitis_C,fatigue nausea loss_of_appetite jaundice
+Migraine,headache nausea sensitivity_to_light vomiting
+Anemia,fatigue pale_skin dizziness shortness_of_breath
+Arthritis,joint_pain swelling stiffness redness
+Gastritis,stomach_pain nausea bloating vomiting
+Ulcer,stomach_pain heartburn nausea weight_loss
+Appendicitis,abdominal_pain fever nausea vomiting
+Bronchitis,cough mucus fatigue chest_discomfort
+Sinusitis,facial_pain headache nasal_congestion cough
+Depression,sadness fatigue insomnia loss_of_interest
+Anxiety,restlessness sweating rapid_heartbeat nervousness
+COVID19,fever cough loss_of_smell breathing_difficulty
+Cholera,diarrhea dehydration nausea vomiting
+Leukemia,fatigue fever bruising weight_loss
+Skin_Allergy,rash itching redness swelling
+Psoriasis,red_patches itching dry_skin scaling
+Eczema,itching dry_skin redness inflammation
+Ringworm,rash itching circular_patch redness
+Scabies,itching rash blisters redness
+Conjunctivitis,red_eyes itching discharge tearing
+Otitis,ear_pain fever hearing_loss dizziness
+Kidney_Stones,back_pain blood_in_urine nausea vomiting
+UTI,burning_urination frequent_urination pelvic_pain
+Prostate_Cancer,urination_difficulty pelvic_pain blood_in_urine
+Breast_Cancer,lump breast_pain nipple_discharge swelling
+Lung_Cancer,cough chest_pain weight_loss shortness_of_breath
+Colon_Cancer,abdominal_pain blood_in_stool weight_loss fatigue
+Brain_Tumor,headache seizures nausea vision_problems
+Epilepsy,seizures confusion staring_spell unconsciousness
+Parkinsons,tremor stiffness slow_movement balance_problem
+Alzheimers,memory_loss confusion mood_changes disorientation
+Hyperthyroidism,weight_loss sweating anxiety rapid_heartbeat
+Hypothyroidism,weight_gain fatigue cold_intolerance dry_skin
+Celiac_Disease,diarrhea bloating weight_loss fatigue
+Crohns_Disease,abdominal_pain diarrhea fatigue weight_loss
+Lupus,joint_pain rash fatigue fever
+Gout,joint_pain swelling redness tenderness
+Osteoporosis,back_pain fractures posture_change height_loss
+Polio,paralysis fever muscle_weakness headache
+Rabies,fever aggression confusion paralysis
+Tetanus,muscle_spasms stiffness fever jaw_lock
+HIV,fever fatigue weight_loss swollen_lymph_nodes
+AIDS,weight_loss infections night_sweats fever
+Schizophrenia,hallucinations delusions confusion withdrawal
+Bipolar_Disorder,mood_swings mania depression insomnia
+Obsessive_Compulsive_Disorder,anxiety repetitive_behavior intrusive_thoughts
+Autism,social_difficulty repetitive_behavior speech_delay
+ADHD,inattention hyperactivity impulsivity restlessness
+Pancreatitis,abdominal_pain nausea vomiting fever
+Gallstones,abdominal_pain nausea vomiting indigestion
+Hemorrhoids,rectal_pain bleeding itching swelling
+Varicose_Veins,leg_pain swelling visible_veins heaviness
+Deep_Vein_Thrombosis,leg_pain swelling redness warmth
+Heart_Attack,chest_pain sweating nausea shortness_of_breath
+Stroke,weakness speech_difficulty dizziness confusion
+Angina,chest_pain fatigue shortness_of_breath nausea
+Atherosclerosis,chest_pain numbness fatigue weakness
+Meningitis,fever headache stiff_neck nausea
+Encephalitis,fever confusion seizures headache
+Glaucoma,eye_pain blurred_vision nausea redness
+Cataract,blurred_vision glare faded_colors night_vision_problem
+Fibromyalgia,muscle_pain fatigue sleep_problem headache
+Irritable_Bowel_Syndrome,abdominal_pain diarrhea constipation bloating
+GERD,heartburn chest_pain regurgitation nausea
+Food_Poisoning,diarrhea vomiting abdominal_cramps fever
+Heat_Stroke,high_temperature confusion dizziness fainting
+Hypoglycemia,dizziness sweating confusion shakiness
+Obesity,weight_gain fatigue joint_pain shortness_of_breath
+Insomnia,difficulty_sleeping fatigue irritability poor_concentration
+Sleep_Apnea,snoring fatigue breathing_pause headache
+Whooping_Cough,severe_cough vomiting fatigue runny_nose
+Yellow_Fever,fever chills jaundice muscle_pain
+Zika,fever rash joint_pain red_eyes
+Chikungunya,fever joint_pain headache rash
+Plague,fever chills swollen_lymph_nodes weakness
